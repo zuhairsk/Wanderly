@@ -1,0 +1,1478 @@
+{
+  "attractions": [
+    {
+      "id": "delhi-red-fort",
+      "name": "Red Fort (Lal Qila)",
+      "category": "historic",
+      "description": "UNESCO World Heritage Site - Mughal emperor's residence and symbol of India's independence. Built by Shah Jahan in 1648, this massive red sandstone fort served as the main residence of Mughal emperors for nearly 200 years.",
+      "location": {
+        "lat": 28.6562,
+        "lng": 77.2410,
+        "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1603261206756-3ea0f3f94a5a?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Tue-Sun: 9:30 AM - 4:30 PM (Closed Mondays)",
+      "phone": "+91-11-23277705",
+      "website": "www.redfort.gov.in",
+      "amenities": ["Museum", "Guided Tours", "Parking", "Audio Guide", "Wheelchair Access"],
+      "rating": 4.3,
+      "reviewCount": 12500,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "New Delhi Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "25 minutes",
+            "cost": "₹20-40",
+            "companies": ["Delhi Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking required from station"
+          },
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "15 minutes",
+            "cost": "₹80-120",
+            "companies": ["Local Auto"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          },
+          {
+            "mode": "Cab",
+            "duration": "20 minutes",
+            "cost": "₹150-250",
+            "companies": ["Uber", "Ola"],
+            "recommended": false,
+            "pros": "Comfortable",
+            "cons": "Expensive"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Best balance of cost, time, and convenience",
+          "estimatedCost": "₹30"
+        }
+      }
+    },
+    {
+      "id": "delhi-india-gate",
+      "name": "India Gate",
+      "category": "historic",
+      "description": "Iconic war memorial arch dedicated to Indian soldiers who died in World War I. Built in 1931, it's a symbol of national pride and a popular gathering spot.",
+      "location": {
+        "lat": 28.6129,
+        "lng": 77.2295,
+        "address": "Rajpath, India Gate, New Delhi, Delhi 110003"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1599661046078-3d0e6f2469fe?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "free",
+      "distance": 0,
+      "hours": "24/7 Open",
+      "phone": "+91-11-23365358",
+      "website": "www.delhitourism.gov.in",
+      "amenities": ["Parking", "Food Stalls", "Photography", "Evening Light Show"],
+      "rating": 4.5,
+      "reviewCount": 18500,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "New Delhi Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "20 minutes",
+            "cost": "₹20-35",
+            "companies": ["Delhi Metro"],
+            "recommended": true,
+            "pros": "Fast and reliable",
+            "cons": "Walking from station"
+          },
+          {
+            "mode": "Bus",
+            "duration": "30 minutes",
+            "cost": "₹15-25",
+            "companies": ["DTC Bus"],
+            "recommended": false,
+            "pros": "Very cheap",
+            "cons": "Slower"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most reliable option",
+          "estimatedCost": "₹25"
+        }
+      }
+    },
+    {
+      "id": "delhi-qutub-minar",
+      "name": "Qutub Minar",
+      "category": "historic",
+      "description": "UNESCO World Heritage Site - Tallest brick minaret in the world at 73 meters. Built in 1193, it's a masterpiece of Indo-Islamic architecture.",
+      "location": {
+        "lat": 28.5244,
+        "lng": 77.1855,
+        "address": "Mehrauli, New Delhi, Delhi 110030"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1582571352032-448f7928eca3?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 7:00 AM - 5:00 PM",
+      "phone": "+91-11-2469-2225",
+      "website": "www.qutubminar.org",
+      "amenities": ["Guided Tours", "Audio Guide", "Parking", "Museum", "Photography"],
+      "rating": 4.4,
+      "reviewCount": 15200,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "New Delhi Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "35 minutes",
+            "cost": "₹25-45",
+            "companies": ["Delhi Metro"],
+            "recommended": true,
+            "pros": "Efficient and cheap",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Cab",
+            "duration": "25 minutes",
+            "cost": "₹200-350",
+            "companies": ["Uber", "Ola"],
+            "recommended": false,
+            "pros": "Direct and comfortable",
+            "cons": "More expensive"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Cost-effective and reliable",
+          "estimatedCost": "₹35"
+        }
+      }
+    },
+    {
+      "id": "mumbai-gateway-india",
+      "name": "Gateway of India",
+      "category": "historic",
+      "description": "Iconic arch monument built in 1924 to commemorate the visit of King George V and Queen Mary. It's Mumbai's most recognizable landmark.",
+      "location": {
+        "lat": 18.9220,
+        "lng": 72.8347,
+        "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1561379932-045a1b8fcd42?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "free",
+      "distance": 0,
+      "hours": "24/7 Open",
+      "phone": "+91-22-2204-4040",
+      "website": "www.maharashtratourism.gov.in",
+      "amenities": ["Boat Rides", "Photography", "Food Stalls", "Shopping", "Parking"],
+      "rating": 4.2,
+      "reviewCount": 22100,
+      "bestTimeToVisit": "November to February",
+      "travelInfo": {
+        "fromLocation": "Mumbai Central Railway Station",
+        "options": [
+          {
+            "mode": "Local Train",
+            "duration": "20 minutes",
+            "cost": "₹10-20",
+            "companies": ["Western Railway"],
+            "recommended": true,
+            "pros": "Fast and cheap",
+            "cons": "Crowded during peak hours"
+          },
+          {
+            "mode": "Bus",
+            "duration": "30 minutes",
+            "cost": "₹15-25",
+            "companies": ["BEST Bus"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          },
+          {
+            "mode": "Cab",
+            "duration": "25 minutes",
+            "cost": "₹200-400",
+            "companies": ["Uber", "Ola"],
+            "recommended": false,
+            "pros": "Comfortable",
+            "cons": "Expensive"
+          }
+        ],
+        "bestOption": {
+          "mode": "Local Train",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹15"
+        }
+      }
+    },
+    {
+      "id": "mumbai-elephanta-caves",
+      "name": "Elephanta Caves",
+      "category": "historic",
+      "description": "UNESCO World Heritage Site - Ancient rock-cut caves dedicated to Lord Shiva. Dating back to 5th-8th century, featuring magnificent sculptures and carvings.",
+      "location": {
+        "lat": 18.9637,
+        "lng": 72.9312,
+        "address": "Elephanta Island, Mumbai, Maharashtra 400094"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1603285177616-f8e2cf236503?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Tue-Sun: 9:00 AM - 5:30 PM (Closed Mondays)",
+      "phone": "+91-22-2204-4040",
+      "website": "www.elephanta.co.in",
+      "amenities": ["Boat Ferry", "Guided Tours", "Audio Guide", "Photography", "Food Court"],
+      "rating": 4.1,
+      "reviewCount": 8900,
+      "bestTimeToVisit": "November to February",
+      "travelInfo": {
+        "fromLocation": "Gateway of India",
+        "options": [
+          {
+            "mode": "Ferry",
+            "duration": "1 hour (including boat ride)",
+            "cost": "₹200-300",
+            "companies": ["Elephanta Ferry Service"],
+            "recommended": true,
+            "pros": "Scenic boat ride",
+            "cons": "Weather dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Ferry",
+          "reason": "Only way to reach the island",
+          "estimatedCost": "₹250"
+        }
+      }
+    },
+    {
+      "id": "bangalore-lalbagh",
+      "name": "Lalbagh Botanical Garden",
+      "category": "nature",
+      "description": "Famous botanical garden established in 1760, home to over 1,000 species of plants. Features a glass house, lake, and beautiful flower shows.",
+      "location": {
+        "lat": 12.9507,
+        "lng": 77.5848,
+        "address": "Mavalli, Bengaluru, Karnataka 560004"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 6:00 AM - 7:00 PM",
+      "phone": "+91-80-2657-3248",
+      "website": "www.lalbagh.org",
+      "amenities": ["Glass House", "Lake", "Walking Trails", "Photography", "Food Stalls"],
+      "rating": 4.4,
+      "reviewCount": 16800,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Bangalore City Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "20 minutes",
+            "cost": "₹15-30",
+            "companies": ["Namma Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking from station"
+          },
+          {
+            "mode": "Bus",
+            "duration": "25 minutes",
+            "cost": "₹10-20",
+            "companies": ["BMTC Bus"],
+            "recommended": false,
+            "pros": "Cheap",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most reliable",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "bangalore-mtr-restaurant",
+      "name": "MTR Restaurant",
+      "category": "dining",
+      "description": "Legendary South Indian restaurant established in 1924, famous for authentic dosas, idlis, and traditional Karnataka cuisine.",
+      "location": {
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "address": "Lalbagh Road, Near Lalbagh Main Gate, Bengaluru, Karnataka 560004"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 6:30 AM - 11:00 PM",
+      "phone": "+91-80-2222-0022",
+      "website": "www.mtrfoods.com",
+      "amenities": ["Traditional Seating", "Takeaway", "Parking", "AC", "Vegetarian"],
+      "rating": 4.6,
+      "reviewCount": 12400,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "Bangalore City Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "15 minutes",
+            "cost": "₹15-25",
+            "companies": ["Namma Metro"],
+            "recommended": true,
+            "pros": "Fast and convenient",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "10 minutes",
+            "cost": "₹50-80",
+            "companies": ["Local Auto"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "chennai-marina-beach",
+      "name": "Marina Beach",
+      "category": "nature",
+      "description": "Second longest urban beach in the world, stretching 13 km along the Bay of Bengal. Popular for sunrise, sunset, and beach activities.",
+      "location": {
+        "lat": 13.0475,
+        "lng": 80.2827,
+        "address": "Marina Beach, Chennai, Tamil Nadu 600005"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "free",
+      "distance": 0,
+      "hours": "24/7 Open",
+      "phone": "+91-44-2538-3333",
+      "website": "www.tamilnadutourism.org",
+      "amenities": ["Beach Activities", "Food Stalls", "Photography", "Walking", "Parking"],
+      "rating": 4.3,
+      "reviewCount": 19800,
+      "bestTimeToVisit": "November to February",
+      "travelInfo": {
+        "fromLocation": "Chennai Central Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "15 minutes",
+            "cost": "₹15-25",
+            "companies": ["Chennai Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking from station"
+          },
+          {
+            "mode": "Bus",
+            "duration": "20 minutes",
+            "cost": "₹10-15",
+            "companies": ["MTC Bus"],
+            "recommended": false,
+            "pros": "Cheap",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most reliable",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "kolkata-victoria-memorial",
+      "name": "Victoria Memorial",
+      "category": "historic",
+      "description": "Magnificent marble building built in 1921 in memory of Queen Victoria. Houses a museum with artifacts from British colonial period.",
+      "location": {
+        "lat": 22.5448,
+        "lng": 88.3426,
+        "address": "Victoria Memorial Hall, 1, Queens Way, Maidan, Kolkata, West Bengal 700071"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1578926375605-eaf7559b1456?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1603261206756-3ea0f3f94a5a?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Tue-Sun: 10:00 AM - 5:00 PM (Closed Mondays)",
+      "phone": "+91-33-2223-1890",
+      "website": "www.victoriamemorial-cal.org",
+      "amenities": ["Museum", "Guided Tours", "Parking", "Photography", "Garden"],
+      "rating": 4.4,
+      "reviewCount": 14200,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Howrah Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "25 minutes",
+            "cost": "₹15-25",
+            "companies": ["Kolkata Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Tram",
+            "duration": "30 minutes",
+            "cost": "₹5-10",
+            "companies": ["Kolkata Tram"],
+            "recommended": false,
+            "pros": "Heritage experience",
+            "cons": "Slow"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most reliable",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "hyderabad-charminar",
+      "name": "Charminar",
+      "category": "historic",
+      "description": "Iconic monument built in 1591 by Muhammad Quli Qutb Shah. Four grand arches facing four directions, symbol of Hyderabad's heritage.",
+      "location": {
+        "lat": 17.3616,
+        "lng": 78.4747,
+        "address": "Charminar, Hyderabad, Telangana 500002"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1605714126803-8b0ca595d4a5?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1582045531325-3f7b98982af0?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 9:00 AM - 5:30 PM",
+      "phone": "+91-40-2326-1916",
+      "website": "www.telanganatourism.gov.in",
+      "amenities": ["Guided Tours", "Photography", "Shopping", "Food Stalls", "Parking"],
+      "rating": 4.2,
+      "reviewCount": 15600,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Hyderabad Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "20 minutes",
+            "cost": "₹15-25",
+            "companies": ["Hyderabad Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking from station"
+          },
+          {
+            "mode": "Bus",
+            "duration": "25 minutes",
+            "cost": "₹10-15",
+            "companies": ["TSRTC Bus"],
+            "recommended": false,
+            "pros": "Cheap",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most reliable",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "hyderabad-golconda-fort",
+      "name": "Golconda Fort",
+      "category": "historic",
+      "description": "Massive fortress built in the 13th century, famous for its acoustic system and diamond mines. Offers panoramic views of Hyderabad.",
+      "location": {
+        "lat": 17.3833,
+        "lng": 78.4011,
+        "address": "Golconda Fort, Hyderabad, Telangana 500008"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1582045531325-3f7b98982af0?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1605714126803-8b0ca595d4a5?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 9:00 AM - 5:30 PM",
+      "phone": "+91-40-2351-2401",
+      "website": "www.telanganatourism.gov.in",
+      "amenities": ["Guided Tours", "Audio Guide", "Photography", "Parking", "Light Show"],
+      "rating": 4.3,
+      "reviewCount": 13200,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Hyderabad Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "30 minutes",
+            "cost": "₹20-35",
+            "companies": ["Hyderabad Metro"],
+            "recommended": true,
+            "pros": "Efficient and cheap",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Cab",
+            "duration": "25 minutes",
+            "cost": "₹150-250",
+            "companies": ["Uber", "Ola"],
+            "recommended": false,
+            "pros": "Direct and comfortable",
+            "cons": "More expensive"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Cost-effective and reliable",
+          "estimatedCost": "₹25"
+        }
+      }
+    },
+    {
+      "id": "tirupati-temple",
+      "name": "Sri Venkateswara Temple (Tirumala)",
+      "category": "historic",
+      "description": "One of the most visited religious sites in the world, dedicated to Lord Venkateswara. Located on Tirumala hills, attracting millions of devotees annually.",
+      "location": {
+        "lat": 13.6778,
+        "lng": 79.3497,
+        "address": "Tirumala, Tirupati, Andhra Pradesh 517504"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1587486913045-7094b5f7f1d6?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1602426171452-7f5b0dff78ea?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "free",
+      "distance": 0,
+      "hours": "Daily: 3:00 AM - 12:00 AM",
+      "phone": "+91-877-2277777",
+      "website": "www.tirumala.org",
+      "amenities": ["Free Darshan", "Laddu Prasadam", "Accommodation", "Parking", "Medical"],
+      "rating": 4.7,
+      "reviewCount": 45000,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Tirupati Railway Station",
+        "options": [
+          {
+            "mode": "Bus",
+            "duration": "45 minutes",
+            "cost": "₹25-40",
+            "companies": ["APSRTC Bus"],
+            "recommended": true,
+            "pros": "Regular service",
+            "cons": "Crowded during peak times"
+          },
+          {
+            "mode": "Cab",
+            "duration": "35 minutes",
+            "cost": "₹300-500",
+            "companies": ["Local Taxi"],
+            "recommended": false,
+            "pros": "Comfortable",
+            "cons": "Expensive"
+          }
+        ],
+        "bestOption": {
+          "mode": "Bus",
+          "reason": "Most economical and regular service",
+          "estimatedCost": "₹30"
+        }
+      }
+    },
+    {
+      "id": "tirupati-padmavathi-temple",
+      "name": "Sri Padmavathi Ammavari Temple",
+      "category": "historic",
+      "description": "Ancient temple dedicated to Goddess Padmavathi, consort of Lord Venkateswara. Located in Tiruchanur, known for its beautiful architecture.",
+      "location": {
+        "lat": 13.6500,
+        "lng": 79.3500,
+        "address": "Tiruchanur, Tirupati, Andhra Pradesh 517503"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1602426171452-7f5b0dff78ea?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1587486913045-7094b5f7f1d6?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "free",
+      "distance": 0,
+      "hours": "Daily: 5:00 AM - 9:00 PM",
+      "phone": "+91-877-2277777",
+      "website": "www.tirumala.org",
+      "amenities": ["Free Darshan", "Prasadam", "Parking", "Accommodation"],
+      "rating": 4.5,
+      "reviewCount": 12000,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Tirupati Railway Station",
+        "options": [
+          {
+            "mode": "Bus",
+            "duration": "20 minutes",
+            "cost": "₹15-25",
+            "companies": ["APSRTC Bus"],
+            "recommended": true,
+            "pros": "Regular service",
+            "cons": "Crowded during festivals"
+          },
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "15 minutes",
+            "cost": "₹50-80",
+            "companies": ["Local Auto"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Limited capacity"
+          }
+        ],
+        "bestOption": {
+          "mode": "Bus",
+          "reason": "Most economical and regular",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "tirupati-kapila-theertham",
+      "name": "Kapila Theertham (Kapileswara Temple)",
+      "category": "nature",
+      "description": "Temple at the base of Tirumala hills with a scenic waterfall. Dedicated to Lord Shiva, known for its natural beauty and spiritual significance.",
+      "location": {
+        "lat": 13.6500,
+        "lng": 79.3500,
+        "address": "Kapila Theertham, Tirupati, Andhra Pradesh 517501"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1609860680196-2a2ad5421d1e?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "free",
+      "distance": 0,
+      "hours": "Daily: 6:00 AM - 8:00 PM",
+      "phone": "+91-877-2277777",
+      "website": "www.tirumala.org",
+      "amenities": ["Waterfall", "Photography", "Parking", "Food Stalls"],
+      "rating": 4.2,
+      "reviewCount": 8500,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Tirupati Railway Station",
+        "options": [
+          {
+            "mode": "Bus",
+            "duration": "25 minutes",
+            "cost": "₹15-25",
+            "companies": ["APSRTC Bus"],
+            "recommended": true,
+            "pros": "Regular service",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "20 minutes",
+            "cost": "₹60-100",
+            "companies": ["Local Auto"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Limited capacity"
+          }
+        ],
+        "bestOption": {
+          "mode": "Bus",
+          "reason": "Most economical option",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "tirupati-talakona-waterfalls",
+      "name": "Talakona Waterfalls",
+      "category": "nature",
+      "description": "Highest waterfall in Andhra Pradesh at 270 feet. Surrounded by dense forests, perfect for nature lovers and adventure enthusiasts.",
+      "location": {
+        "lat": 13.7500,
+        "lng": 79.4000,
+        "address": "Talakona, Sri Venkateswara National Park, Andhra Pradesh 517503"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 6:00 AM - 6:00 PM",
+      "phone": "+91-877-2277777",
+      "website": "www.aptourism.gov.in",
+      "amenities": ["Trekking", "Photography", "Parking", "Food Stalls", "Nature Trails"],
+      "rating": 4.3,
+      "reviewCount": 6800,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Tirupati Railway Station",
+        "options": [
+          {
+            "mode": "Bus",
+            "duration": "1 hour",
+            "cost": "₹30-50",
+            "companies": ["APSRTC Bus"],
+            "recommended": true,
+            "pros": "Regular service",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Cab",
+            "duration": "45 minutes",
+            "cost": "₹400-600",
+            "companies": ["Local Taxi"],
+            "recommended": false,
+            "pros": "Comfortable",
+            "cons": "Expensive"
+          }
+        ],
+        "bestOption": {
+          "mode": "Bus",
+          "reason": "Most economical option",
+          "estimatedCost": "₹40"
+        }
+      }
+    },
+    {
+      "id": "tirupati-chandragiri-fort",
+      "name": "Chandragiri Fort",
+      "category": "historic",
+      "description": "Historic fort built in the 11th century, later used by Vijayanagara kings. Offers panoramic views and houses a museum with ancient artifacts.",
+      "location": {
+        "lat": 13.5833,
+        "lng": 79.3167,
+        "address": "Chandragiri, Tirupati, Andhra Pradesh 517101"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1589307003821-3e2b8b105f54?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 9:00 AM - 5:00 PM",
+      "phone": "+91-877-2277777",
+      "website": "www.aptourism.gov.in",
+      "amenities": ["Museum", "Guided Tours", "Photography", "Parking", "Viewpoint"],
+      "rating": 4.1,
+      "reviewCount": 4200,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Tirupati Railway Station",
+        "options": [
+          {
+            "mode": "Bus",
+            "duration": "30 minutes",
+            "cost": "₹20-35",
+            "companies": ["APSRTC Bus"],
+            "recommended": true,
+            "pros": "Regular service",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "25 minutes",
+            "cost": "₹80-120",
+            "companies": ["Local Auto"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Limited capacity"
+          }
+        ],
+        "bestOption": {
+          "mode": "Bus",
+          "reason": "Most economical option",
+          "estimatedCost": "₹25"
+        }
+      }
+    },
+    {
+      "id": "delhi-karims-restaurant",
+      "name": "Karim's Restaurant",
+      "category": "dining",
+      "description": "Historic restaurant established in 1913, famous for authentic Mughlai cuisine. Known for its kebabs, biryanis, and traditional Indian dishes.",
+      "location": {
+        "lat": 28.6517,
+        "lng": 77.2314,
+        "address": "16, Gali Kababian, Jama Masjid, New Delhi, Delhi 110006"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 9:00 AM - 12:00 AM",
+      "phone": "+91-11-2326-9880",
+      "website": "www.karimhoteldelhi.com",
+      "amenities": ["Traditional Seating", "Takeaway", "Parking", "AC", "Non-Vegetarian"],
+      "rating": 4.4,
+      "reviewCount": 8900,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "New Delhi Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "20 minutes",
+            "cost": "₹20-35",
+            "companies": ["Delhi Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "15 minutes",
+            "cost": "₹60-100",
+            "companies": ["Local Auto"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹25"
+        }
+      }
+    },
+    {
+      "id": "mumbai-leopold-cafe",
+      "name": "Leopold Cafe",
+      "category": "dining",
+      "description": "Historic cafe established in 1871, famous for its colonial charm and delicious food. Popular among tourists and locals alike.",
+      "location": {
+        "lat": 18.9300,
+        "lng": 72.8300,
+        "address": "SBS Road, Colaba Causeway, Mumbai, Maharashtra 400005"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 7:30 AM - 12:00 AM",
+      "phone": "+91-22-2282-8185",
+      "website": "www.leopoldcafe.com",
+      "amenities": ["Traditional Seating", "Takeaway", "Parking", "AC", "Multi-cuisine"],
+      "rating": 4.2,
+      "reviewCount": 11200,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "Mumbai Central Railway Station",
+        "options": [
+          {
+            "mode": "Local Train",
+            "duration": "15 minutes",
+            "cost": "₹10-20",
+            "companies": ["Western Railway"],
+            "recommended": true,
+            "pros": "Fast and cheap",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Bus",
+            "duration": "20 minutes",
+            "cost": "₹15-25",
+            "companies": ["BEST Bus"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Local Train",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹15"
+        }
+      }
+    },
+    {
+      "id": "delhi-chandni-chowk",
+      "name": "Chandni Chowk",
+      "category": "shopping",
+      "description": "Historic market established in 1650, famous for spices, jewelry, textiles, and street food. One of the oldest and busiest markets in Delhi.",
+      "location": {
+        "lat": 28.6517,
+        "lng": 77.2314,
+        "address": "Chandni Chowk, New Delhi, Delhi 110006"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 10:00 AM - 8:00 PM",
+      "phone": "+91-11-2326-9880",
+      "website": "www.delhitourism.gov.in",
+      "amenities": ["Shopping", "Food Stalls", "Parking", "Photography", "Bargaining"],
+      "rating": 4.3,
+      "reviewCount": 15600,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "New Delhi Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "15 minutes",
+            "cost": "₹20-30",
+            "companies": ["Delhi Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "10 minutes",
+            "cost": "₹50-80",
+            "companies": ["Local Auto"],
+            "recommended": false,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹25"
+        }
+      }
+    },
+    {
+      "id": "bangalore-commercial-street",
+      "name": "Commercial Street",
+      "category": "shopping",
+      "description": "Famous shopping street in Bangalore, known for traditional and modern items. Popular for clothing, accessories, and street food.",
+      "location": {
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "address": "Commercial Street, Shivajinagar, Bengaluru, Karnataka 560001"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 10:00 AM - 9:00 PM",
+      "phone": "+91-80-2222-0022",
+      "website": "www.karnatakatourism.org",
+      "amenities": ["Shopping", "Food Stalls", "Parking", "Photography", "Bargaining"],
+      "rating": 4.2,
+      "reviewCount": 9800,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "Bangalore City Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "15 minutes",
+            "cost": "₹15-25",
+            "companies": ["Namma Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking required"
+          },
+          {
+            "mode": "Bus",
+            "duration": "20 minutes",
+            "cost": "₹10-15",
+            "companies": ["BMTC Bus"],
+            "recommended": false,
+            "pros": "Cheap",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most reliable",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "delhi-select-citywalk",
+      "name": "Select Citywalk Mall",
+      "category": "shopping",
+      "description": "Premium shopping mall in Saket with international brands, restaurants, and entertainment. Features luxury retail stores, food courts, and multiplex cinema.",
+      "location": {
+        "lat": 28.5304,
+        "lng": 77.2177,
+        "address": "A-3, District Centre, Saket, New Delhi, Delhi 110017"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1526835746356-2a8a0f3f1a5e?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1544890225-d74dfb71e7e7?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 10:00 AM - 10:00 PM",
+      "phone": "+91-11-2956-1000",
+      "website": "www.selectcitywalk.com",
+      "amenities": ["Parking", "Food Court", "Cinema", "AC", "Wheelchair Access"],
+      "rating": 4.2,
+      "reviewCount": 8900,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "New Delhi Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "30 minutes",
+            "cost": "₹25-40",
+            "companies": ["Delhi Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking from station"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹30"
+        }
+      }
+    },
+    {
+      "id": "mumbai-phoenix-mills",
+      "name": "Phoenix Mills",
+      "category": "shopping",
+      "description": "One of Mumbai's largest shopping malls with luxury brands, entertainment zones, and fine dining restaurants.",
+      "location": {
+        "lat": 19.0176,
+        "lng": 72.8562,
+        "address": "462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1526835746356-2a8a0f3f1a5e?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1544890225-d74dfb71e7e7?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$$",
+      "distance": 0,
+      "hours": "Daily: 10:00 AM - 11:00 PM",
+      "phone": "+91-22-4333-9999",
+      "website": "www.phoenixmills.com",
+      "amenities": ["Parking", "Food Court", "Cinema", "AC", "Wheelchair Access"],
+      "rating": 4.4,
+      "reviewCount": 15200,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "Mumbai Central Railway Station",
+        "options": [
+          {
+            "mode": "Local Train",
+            "duration": "20 minutes",
+            "cost": "₹10-20",
+            "companies": ["Western Railway"],
+            "recommended": true,
+            "pros": "Fast and cheap",
+            "cons": "Walking required"
+          }
+        ],
+        "bestOption": {
+          "mode": "Local Train",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹15"
+        }
+      }
+    },
+    {
+      "id": "bangalore-orion-mall",
+      "name": "Orion Mall",
+      "category": "shopping",
+      "description": "Modern shopping mall in Bangalore with international brands, entertainment, and dining options.",
+      "location": {
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "address": "Brigade Gateway, Dr Rajkumar Road, Malleshwaram, Bengaluru, Karnataka 560055"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1526835746356-2a8a0f3f1a5e?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1544890225-d74dfb71e7e7?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 10:00 AM - 10:00 PM",
+      "phone": "+91-80-2222-0022",
+      "website": "www.orionmall.com",
+      "amenities": ["Parking", "Food Court", "Cinema", "AC", "Wheelchair Access"],
+      "rating": 4.3,
+      "reviewCount": 11200,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "Bangalore City Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "25 minutes",
+            "cost": "₹20-35",
+            "companies": ["Namma Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking required"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most reliable",
+          "estimatedCost": "₹25"
+        }
+      }
+    },
+    {
+      "id": "delhi-paranthe-wali-gali",
+      "name": "Paranthe Wali Gali",
+      "category": "dining",
+      "description": "Famous street food lane in Old Delhi known for delicious parathas. Traditional North Indian breakfast spot with authentic flavors.",
+      "location": {
+        "lat": 28.6517,
+        "lng": 77.2314,
+        "address": "Paranthe Wali Gali, Chandni Chowk, New Delhi, Delhi 110006"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 7:00 AM - 11:00 PM",
+      "phone": "+91-11-2326-9880",
+      "website": "www.delhitourism.gov.in",
+      "amenities": ["Traditional Seating", "Takeaway", "Vegetarian", "Street Food"],
+      "rating": 4.5,
+      "reviewCount": 18500,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "New Delhi Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "15 minutes",
+            "cost": "₹20-30",
+            "companies": ["Delhi Metro"],
+            "recommended": true,
+            "pros": "Fast and efficient",
+            "cons": "Walking required"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹25"
+        }
+      }
+    },
+    {
+      "id": "mumbai-bademiya",
+      "name": "Bademiya Restaurant",
+      "category": "dining",
+      "description": "Iconic late-night street food joint famous for kebabs and rolls. Popular among locals and tourists for authentic Mumbai street food.",
+      "location": {
+        "lat": 18.9300,
+        "lng": 72.8300,
+        "address": "Tulloch Road, Apollo Bunder, Colaba, Mumbai, Maharashtra 400001"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 6:00 PM - 3:00 AM",
+      "phone": "+91-22-2282-8185",
+      "website": "www.bademiya.com",
+      "amenities": ["Street Seating", "Takeaway", "Non-Vegetarian", "Late Night"],
+      "rating": 4.3,
+      "reviewCount": 14200,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "Mumbai Central Railway Station",
+        "options": [
+          {
+            "mode": "Local Train",
+            "duration": "15 minutes",
+            "cost": "₹10-20",
+            "companies": ["Western Railway"],
+            "recommended": true,
+            "pros": "Fast and cheap",
+            "cons": "Walking required"
+          }
+        ],
+        "bestOption": {
+          "mode": "Local Train",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹15"
+        }
+      }
+    },
+    {
+      "id": "bangalore-vidyarthi-bhavan",
+      "name": "Vidyarthi Bhavan",
+      "category": "dining",
+      "description": "Legendary South Indian restaurant established in 1943, famous for crispy dosas and authentic Karnataka cuisine.",
+      "location": {
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "address": "32, Gandhi Bazaar Main Road, Basavanagudi, Bengaluru, Karnataka 560004"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$",
+      "distance": 0,
+      "hours": "Daily: 6:30 AM - 11:00 PM",
+      "phone": "+91-80-2667-7588",
+      "website": "www.vidyarthibhavan.com",
+      "amenities": ["Traditional Seating", "Takeaway", "Vegetarian", "Heritage"],
+      "rating": 4.6,
+      "reviewCount": 16800,
+      "bestTimeToVisit": "Year-round",
+      "travelInfo": {
+        "fromLocation": "Bangalore City Railway Station",
+        "options": [
+          {
+            "mode": "Metro",
+            "duration": "20 minutes",
+            "cost": "₹15-25",
+            "companies": ["Namma Metro"],
+            "recommended": true,
+            "pros": "Fast and convenient",
+            "cons": "Walking required"
+          }
+        ],
+        "bestOption": {
+          "mode": "Metro",
+          "reason": "Fastest and most economical",
+          "estimatedCost": "₹20"
+        }
+      }
+    },
+    {
+      "id": "goa-baga-beach",
+      "name": "Baga Beach",
+      "category": "nature",
+      "description": "Popular beach destination in Goa known for water sports, nightlife, and beach shacks. Perfect for swimming, sunbathing, and beach parties.",
+      "location": {
+        "lat": 15.5550,
+        "lng": 73.7550,
+        "address": "Baga Beach, Bardez, Goa 403515"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "24/7 Open",
+      "phone": "+91-832-227-6024",
+      "website": "www.goatourism.gov.in",
+      "amenities": ["Water Sports", "Beach Shacks", "Parking", "Photography", "Nightlife"],
+      "rating": 4.4,
+      "reviewCount": 22100,
+      "bestTimeToVisit": "November to March",
+      "travelInfo": {
+        "fromLocation": "Panaji Bus Stand",
+        "options": [
+          {
+            "mode": "Bus",
+            "duration": "45 minutes",
+            "cost": "₹30-50",
+            "companies": ["Kadamba Transport"],
+            "recommended": true,
+            "pros": "Regular service",
+            "cons": "Crowded during peak season"
+          }
+        ],
+        "bestOption": {
+          "mode": "Bus",
+          "reason": "Most economical option",
+          "estimatedCost": "₹40"
+        }
+      }
+    },
+    {
+      "id": "rajasthan-jaipur-city-palace",
+      "name": "City Palace, Jaipur",
+      "category": "historic",
+      "description": "Magnificent palace complex in the heart of Jaipur, showcasing Rajput and Mughal architecture. Houses museums with royal artifacts and textiles.",
+      "location": {
+        "lat": 26.9255,
+        "lng": 75.8236,
+        "address": "Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1603261206756-3ea0f3f94a5a?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1582045531325-3f7b98982af0?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$",
+      "distance": 0,
+      "hours": "Daily: 9:30 AM - 5:00 PM",
+      "phone": "+91-141-408-8888",
+      "website": "www.citypalacejaipur.in",
+      "amenities": ["Museum", "Guided Tours", "Parking", "Photography", "Audio Guide"],
+      "rating": 4.5,
+      "reviewCount": 18900,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Jaipur Railway Station",
+        "options": [
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "15 minutes",
+            "cost": "₹50-80",
+            "companies": ["Local Auto"],
+            "recommended": true,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Auto-rickshaw",
+          "reason": "Most convenient option",
+          "estimatedCost": "₹60"
+        }
+      }
+    },
+    {
+      "id": "kerala-backwaters",
+      "name": "Kerala Backwaters",
+      "category": "nature",
+      "description": "Serene network of lagoons, lakes, and canals in Kerala. Famous for houseboat cruises through picturesque landscapes and coconut groves.",
+      "location": {
+        "lat": 9.4981,
+        "lng": 76.3388,
+        "address": "Alleppey Backwaters, Alappuzha, Kerala 688001"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "$$$",
+      "distance": 0,
+      "hours": "Daily: 6:00 AM - 6:00 PM",
+      "phone": "+91-477-225-1795",
+      "website": "www.keralatourism.org",
+      "amenities": ["Houseboat", "Photography", "Parking", "Guided Tours", "Nature Trails"],
+      "rating": 4.7,
+      "reviewCount": 25600,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Alappuzha Railway Station",
+        "options": [
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "20 minutes",
+            "cost": "₹60-100",
+            "companies": ["Local Auto"],
+            "recommended": true,
+            "pros": "Direct route",
+            "cons": "Limited capacity"
+          }
+        ],
+        "bestOption": {
+          "mode": "Auto-rickshaw",
+          "reason": "Most convenient option",
+          "estimatedCost": "₹80"
+        }
+      }
+    },
+    {
+      "id": "tamil-nadu-madurai-meenakshi-temple",
+      "name": "Meenakshi Amman Temple",
+      "category": "historic",
+      "description": "Ancient Hindu temple dedicated to Goddess Meenakshi and Lord Sundareswarar. Famous for its magnificent architecture and colorful gopurams.",
+      "location": {
+        "lat": 9.9196,
+        "lng": 78.1193,
+        "address": "Madurai Main, Madurai, Tamil Nadu 625001"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1602426171452-7f5b0dff78ea?auto=format&fit=crop&w=800&h=600&q=80",
+        "https://images.unsplash.com/photo-1587486913045-7094b5f7f1d6?auto=format&fit=crop&w=800&h=600&q=80"
+      ],
+      "price": "free",
+      "distance": 0,
+      "hours": "Daily: 5:00 AM - 12:30 PM, 4:00 PM - 9:30 PM",
+      "phone": "+91-452-234-4360",
+      "website": "www.maduraimeenakshi.org",
+      "amenities": ["Free Darshan", "Photography", "Parking", "Guided Tours", "Prasadam"],
+      "rating": 4.6,
+      "reviewCount": 32100,
+      "bestTimeToVisit": "October to March",
+      "travelInfo": {
+        "fromLocation": "Madurai Railway Station",
+        "options": [
+          {
+            "mode": "Auto-rickshaw",
+            "duration": "10 minutes",
+            "cost": "₹40-60",
+            "companies": ["Local Auto"],
+            "recommended": true,
+            "pros": "Direct route",
+            "cons": "Traffic dependent"
+          }
+        ],
+        "bestOption": {
+          "mode": "Auto-rickshaw",
+          "reason": "Most convenient option",
+          "estimatedCost": "₹50"
+        }
+      }
+    }
+  ]
+}
